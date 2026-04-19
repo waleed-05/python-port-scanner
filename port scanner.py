@@ -3,7 +3,7 @@ import socket
 import time
 import threading
 
-usage="python3 paractise.py ip start_port end_port"
+usage="python3 practise.py ip start_port end_port"
 print("-"*70)
 print("python simple port scanner")
 print("-"*70)
